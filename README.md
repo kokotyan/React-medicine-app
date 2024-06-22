@@ -1,1 +1,1 @@
-# myroom2024
+# ReactとTypeScriptで服薬管理のアプリを作成中！
